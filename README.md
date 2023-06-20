@@ -1,7 +1,7 @@
 # BizCardX-Extracting-Business-Card-Data-with-OCR
 
 **Description:**
-The aim of the project is to develop a streamlit application that allows users to upload an image of a business card and extract relevant information form it using easyOCR. The extracted information is displayed in the application's GUI.
+The aim of the project is to develop a streamlit application that allows users to upload an image of a business card and extract relevant information form it using easyOCR. The extracted information is displayed in the application's GUI (Streamlit).
 
 **Process:**
 1. Design the user interface: Create a simple and intuitive user interface using Streamlit that guides users through the process of uploading the business card image and extracting its information.
