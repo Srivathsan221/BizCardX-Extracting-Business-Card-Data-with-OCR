@@ -3,6 +3,7 @@
 ![Business-Cards-extraction-2-min](https://github.com/Srivathsan221/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/61115411/84f8353e-3ac0-42ac-9ea0-495c753cf31a)
 
 **Description:**
+
 The aim of the project is to develop a streamlit application that allows users to upload an image of a business card and extract relevant information form it using easyOCR. The extracted information is displayed in the application's GUI (Streamlit).
 
 **Process:**
